@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/food"
+        android:title="Food" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/history"
+        android:title="History" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/healthy"
+        android:title="Healthy" />
+    <item
+        android:id="@+id/navigation_doctor"
+        android:icon="@drawable/doctor"
+        android:title="Doctor" />
+
+</menu>
